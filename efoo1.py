@@ -1,3 +1,4 @@
+#no1 for foobar challenge
 #count occurrences, keep or eliminate given specified constraint
 
 import itertools, collections
